@@ -1,0 +1,139 @@
+
+axie.png
+size: 2007,434
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tail
+  rotate: false
+  xy: 1604, 146
+  size: 226, 176
+  orig: 226, 176
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 241, 2
+  size: 576, 430
+  orig: 576, 430
+  offset: 0, 0
+  index: -1
+back
+  rotate: false
+  xy: 2, 2
+  size: 172, 250
+  orig: 172, 250
+  offset: 0, 0
+  index: -1
+eyes
+  rotate: false
+  xy: 1449, 2
+  size: 232, 86
+  orig: 232, 86
+  offset: 0, 0
+  index: -1
+ear-right
+  rotate: false
+  xy: 905, 2
+  size: 74, 92
+  orig: 74, 92
+  offset: 0, 0
+  index: -1
+leg-front-right
+  rotate: false
+  xy: 1215, 90
+  size: 74, 88
+  orig: 74, 88
+  offset: 0, 0
+  index: -1
+leg-back-left
+  rotate: false
+  xy: 1835, 2
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+body-pattern
+  rotate: false
+  xy: 176, 2
+  size: 63, 99
+  orig: 63, 99
+  offset: 0, 0
+  index: -1
+horn
+  rotate: false
+  xy: 1683, 2
+  size: 150, 130
+  orig: 150, 130
+  offset: 0, 0
+  index: -1
+leg-front-left
+  rotate: false
+  xy: 1835, 74
+  size: 70, 72
+  orig: 70, 72
+  offset: 0, 0
+  index: -1
+mouth-eat
+  rotate: false
+  xy: 1445, 90
+  size: 157, 53
+  orig: 157, 53
+  offset: 0, 0
+  index: -1
+eyes-shut
+  rotate: false
+  xy: 1215, 2
+  size: 232, 86
+  orig: 232, 86
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 1604, 90
+  size: 70, 54
+  orig: 70, 54
+  offset: 0, 0
+  index: -1
+leg-back-right
+  rotate: false
+  xy: 1907, 2
+  size: 74, 88
+  orig: 74, 88
+  offset: 0, 0
+  index: -1
+mouth-open
+  rotate: false
+  xy: 1907, 92
+  size: 98, 122
+  orig: 98, 122
+  offset: 0, 0
+  index: -1
+mouth-bite
+  rotate: false
+  xy: 1291, 90
+  size: 152, 94
+  orig: 152, 94
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 905, 102
+  size: 286, 154
+  orig: 286, 154
+  offset: 0, 0
+  index: -1
+ear-left
+  rotate: false
+  xy: 819, 2
+  size: 84, 100
+  orig: 84, 100
+  offset: 0, 0
+  index: -1
+eyes-angry
+  rotate: false
+  xy: 981, 2
+  size: 232, 98
+  orig: 232, 98
+  offset: 0, 0
+  index: -1
