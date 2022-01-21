@@ -15,6 +15,8 @@
 
 
 ### Add Mobile Platform
+`cordova plugin add https://github.com/AraHovakimyan/cordova-plugin-wkwebviewxhrfix`
+
 `cordova platform add ios android`
 
 ### Run on iOS:
